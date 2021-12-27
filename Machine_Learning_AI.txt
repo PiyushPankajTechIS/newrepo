@@ -1,0 +1,60 @@
+Unit 1: Introduction To Python - 
+
+Intro to the Python Programming language
+Control structures and functions
+Importing libraries - Numpy and Pandas Basics
+Data wrangling and cleaning
+Exploratory Data Analysis and descriptive statistics
+
+Unit 2: Database Management - 
+
+Introduction to Databases and SQL
+Retrieving data with SQL
+Writing SQL Queries
+Functions and aggregations
+Joins in SQL
+
+Unit 3: Statistics and Data Visualisation - 
+
+Data Visualisation using matplotlib/seaborn
+Plotting Data distributions
+Introduction to probability
+Discrete and Continuous probability distributions
+Inferential Statistics and Hypothesis testing
+
+Unit 4: Machine Learning:
+
+Introduction to machine learning models 
+Simple and Multiple Regression Models
+Logistic Regression
+ROC and AUC analysis
+KNN and Naive Bayes classifier
+SVM Classification and Regression
+Tree Based models:
+- Decision trees
+- Truncation and pruning
+- Random Forests and Bagged models
+- Gradient Boosted models
+Feature selection methods 
+Model evaluation and hyper parameter tuning 
+Unsupervised Learning:
+- Clustering (K means and Hierarchical)
+- Principal Component Analysis
+Recommender Systems
+
+Unit 5 - Artificial Intelligence:
+
+Intro to Neural Networks
+Types of Neural Networks
+Image classification
+Deep Learning Neural Networks
+
+Intro to NLP
+Basic Lexical processing
+Text classification / Topic modelling / Document summarisation
+Reinforcement Learning Models
+
+Notes:
+
+Unit 5 could probability be split in 2 depending on how comprehensive the coverage is
+
